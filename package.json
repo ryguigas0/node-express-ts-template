@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryguigas0/rpg-character-manager.git"
+    "url": "git+https://github.com/ryguigas0/node-express-ts-template.git"
   },
   "author": "Guilherme Oliveira Casagrande",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryguigas0/rpg-character-manager/issues"
+    "url": "https://github.com/ryguigas0/node-express-ts-template/issues"
   },
-  "homepage": "https://github.com/ryguigas0/rpg-character-manager#readme",
+  "homepage": "https://github.com/ryguigas0/node-express-ts-template#readme",
   "dependencies": {
     "express": "^4.17.1",
     "ts-node": "^9.1.1",
